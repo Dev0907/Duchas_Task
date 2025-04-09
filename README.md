@@ -1,17 +1,6 @@
 # Duchas_Task
 This is a Python-based voice-interactive quiz assistant that uses speech recognition and text-to-speech to engage users in a spoken quiz session. Users can choose categories, answer multiple-choice questions by voice, and get their results stored locally.
-voice_quiz_assistant/
-│
-├── categories/            # Contains JSON files with quiz questions
-│   └── science.json       # Example quiz file
-    └── history.json
-    └── health.json
-│
-├── results/               # Stores saved quiz results
-│   └── quiz_results.txt
-│
-├── app.py      # Main code file
-└── README.md              # (This file)
+
 
 #Installations
 pip install pyttsx3 speechrecognition pyaudio
