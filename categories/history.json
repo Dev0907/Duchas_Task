@@ -1,0 +1,27 @@
+[
+  {
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "answer": "George Washington"
+  },
+  {
+      "question": "In which year did World War II end?",
+      "options": ["1942", "1943", "1945", "1950"],
+      "answer": "1945"
+  },
+  {
+      "question": "Who was the Mughal emperor during the battle of Panipat in 1526?",
+      "options": ["Babur", "Akbar", "Aurangzeb", "Shah Jahan"],
+      "answer": "Babur"
+  },
+  {
+      "question": "The Great Wall of China was primarily built to protect against which group?",
+      "options": ["Japanese", "Mongols", "Tartars", "Indians"],
+      "answer": "Mongols"
+  },
+  {
+      "question": "Who discovered America in 1492?",
+      "options": ["Ferdinand Magellan", "Christopher Columbus", "Vasco da Gama", "Marco Polo"],
+      "answer": "Christopher Columbus"
+  }
+]

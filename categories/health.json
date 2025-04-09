@@ -1,0 +1,12 @@
+[
+  {
+      "question": "What is the normal human body temperature in Celsius?",
+      "options": ["36", "37", "38", "39"],
+      "answer": "37"
+  },
+  {
+      "question": "Which vitamin is produced when exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+  }
+]
