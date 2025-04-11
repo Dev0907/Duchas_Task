@@ -222,7 +222,7 @@ class Assistant:
             self.speak(f"Could not save results: {str(e)}")
 
 if __name__ == "__main__":
-    assistant = HealthAssistant()
+    assistant = Assistant()
     assistant.speak("Welcome to the Quiz Assistant!")
     
     while True:
